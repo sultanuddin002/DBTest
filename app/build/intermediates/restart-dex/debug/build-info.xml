@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="7617219651559"
+    token="6431769939829576968" >
+
+    <task
+        name="javac"
+        duration="141" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="19" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="F:\Sultan\Android\ClassSavingTest\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+
+    <build timestamp="5567529834549" >
+        <artifact
+            location="F:\Sultan\Android\ClassSavingTest\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="6078870501742" >
+        <artifact
+            location="F:\Sultan\Android\ClassSavingTest\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="F:\Sultan\Android\ClassSavingTest\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="6222653681746" >
+        <artifact
+            location="F:\Sultan\Android\ClassSavingTest\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="7617219651559" >
+        <artifact
+            location="F:\Sultan\Android\ClassSavingTest\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
