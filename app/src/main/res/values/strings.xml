@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ClassSavingTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome_text">Select button to test snappydb</string>
+    <string name="preliminary_text">preliminary store test</string>
+    <string name="class_element_text">Class element store test</string>
+    <string name="list_storage_text">List store test</string>
+    <string name="integer_text">Enter Integer:</string>
+    <string name="save_txt">SAVE</string>
+    <string name="result_text">Your result is: </string>
+    <string name="float_text">Enter Float</string>
+    <string name="string_text">Enter String</string>
+
 </resources>
