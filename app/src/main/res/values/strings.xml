@@ -12,5 +12,6 @@
     <string name="result_text">Your result is: </string>
     <string name="float_text">Enter Float</string>
     <string name="string_text">Enter String</string>
-
+    <string name="object_save_text">Object save test</string>
+    <string name="object_list_text">Object List save test</string>
 </resources>
